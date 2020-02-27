@@ -1,4 +1,4 @@
 class Person
   def initialize(person)
-    @breed = breed
+    @person = beyonce
   end
